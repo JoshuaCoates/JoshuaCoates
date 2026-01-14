@@ -1,6 +1,7 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joshua Coates ======================================================================================================================================  
-## Cloud Engineer, Student, Practising Developer.. 
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) my name is Joshua Coates
+### Cloud Engineer, Student, Practising Developer.. 
 -----------------------------------------------  
+
 I'm currently studying an MSc in Computer Science. Alongside this working on personal projects and passions! I work in IT by day, study by night! Please get in contact!  
 
 * 🌍  I'm based in the United Kingdom
@@ -13,9 +14,3 @@ I'm currently studying an MSc in Computer Science. Alongside this working on per
 
  ### Socials  
  <p align="left"> <a href="https://www.github.com/JoshuaCoates" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-
-### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/JoshuaCoates"><img src="https://github-readme-stats.vercel.app/api?username=JoshuaCoates&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JoshuaCoates's GitHub stats" /></a>
-<a href="http://www.github.com/JoshuaCoates"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaCoates&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
