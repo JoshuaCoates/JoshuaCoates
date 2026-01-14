@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joshua Coates ======================================================================================================================================  
-Cloud Engineer, Student, Practising Developer.. -----------------------------------------------  
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Joshua Coates ======================================================================================================================================  
+## Cloud Engineer, Student, Practising Developer.. 
+-----------------------------------------------  
 I'm currently studying an MSc in Computer Science. Alongside this working on personal projects and passions! I work in IT by day, study by night! Please get in contact!  
 
 * 🌍  I'm based in the United Kingdom
