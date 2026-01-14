@@ -4,7 +4,7 @@
 
 I'm currently studying an MSc in Computer Science. Alongside this working on personal projects and passions! I work in IT by day, study by night! Please get in contact!  
 
-* 🌍  I'm based in the United Kingdom
+* 🌍  I'm based in the UK
 * 🖥️  See my portfolio at [MyBlog](http://www.joshcoates.co.uk)
 * ✉️  You can contact me at [mail@joshcoates.co.uk](mailto:mail@joshcoates.co.uk)
 * 🚀  I'm currently working on [Academic Works for my MSc](http://www.github.com/JoshuaCoates)
