@@ -6,7 +6,7 @@ I'm currently studying an MSc in Computer Science. Alongside this working on per
 
 * 🌍  I'm based in the United Kingdom
 * 🖥️  See my portfolio at [MyBlog](http://www.joshcoates.co.uk)
-* ✉️  You can contact me at [me@joshcoates.co.uk](mailto:me@joshcoates.co.uk)
+* ✉️  You can contact me at [mail@joshcoates.co.uk](mailto:mail@joshcoates.co.uk)
 * 🚀  I'm currently working on [Academic Works for my MSc](http://www.github.com/JoshuaCoates)
 * 🧠  I'm currently learning all things computers, coding and development!
 
